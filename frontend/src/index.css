@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    background-color: rgb(15 23 42);
+    color: white;
+}
+
+.tooltip-container {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip {
+    position: absolute;
+    top: calc(-100% - 15px);
+    background-color: #1e293b;
+    border-width: 2px;
+    border-color: #334155;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+    z-index: 1;
+    font-size: small;
+    font-weight: 400;
+    box-shadow: 0px 0px 10px #00000086;
+}
