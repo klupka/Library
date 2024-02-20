@@ -43,8 +43,8 @@ mongoose
         console.log("App connected to database.");
         // Express func: app.listen([port[, host[, backlog]]][, callback])
         // Tells the app to start listening for visitors on a specific address and port
-        app.listen(PORT, () => {
-            console.log(`App is listening to port: ${PORT}`);
+        app.listen(process.env.PORT, () => {
+            console.log(`App is listening to port: ${process.env.PORT}`);
         });
     })
     .catch((error) => {
