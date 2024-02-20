@@ -1,6 +1,6 @@
 # Library
 
-🔗 <a href="https://klupka.github.io/WeatherWebApp/">Library</a>
+🔗 <a href="https://sethklupka-library.netlify.app/">Library</a>
 
 ## Description
 - ***
