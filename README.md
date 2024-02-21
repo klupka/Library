@@ -1,6 +1,6 @@
 # Library
 
-🔗 <a href="https://sethklupka-library.netlify.app/">Library</a>
+🔗 <a href="https://sethklupka-library.netlify.app/">Library</a> - Note: it may require a minute to load initially.
 
 ## Description
 - An application for managing a library, enabling users to add, modify, and remove books.
